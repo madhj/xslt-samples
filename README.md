@@ -1,2 +1,2 @@
 # xslt-samples
-A repo for same basic XSL transformations
+A repo for some basic XSL transformations
